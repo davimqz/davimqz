@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Davi Oliveira:
-<br>🎓 | Computer science student in the 3rd period at Cesar School<br><br>🎯 | I'm intresting about: Software Development, Foresence Computing, Cyber Security, Artificial Inteligence<br>
+<br>🎓 | Computer science student in the 4rd period at Cesar School<br><br>🎯 | I'm intresting about: Software Development, Foresence Computing, Cyber Security, Artificial Inteligence<br>
 
 
 ## 🌐 Socials:
